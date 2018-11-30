@@ -162,7 +162,7 @@
   
   <p>Suppose management is thinking about using a language model to classify written customer reviews, call, and complaint logs. If the most critical customer messages can be identified, then customer support personnel can be assigned to contact those customers.</p>
   
-    <ul>
+<ul>
   <li>How would you advise senior management? What kinds of systems and methods would be most relevant to the customer services function?</li>
   <li>Considering the results of this assignment, what is needed to make an automated customer support system that can identify negative customer feelings?</li>
   <li>What can data scientists do to make language models more useful in customer service function?</li>
